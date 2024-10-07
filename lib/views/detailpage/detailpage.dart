@@ -103,7 +103,7 @@ class _DetailpageState extends State<Detailpage> {
             20.height,
             TextFormField(
               decoration: InputDecoration(
-                hintText: 'Student Name ',
+                hintText: 'GR id ',
                 border: const OutlineInputBorder(
                   borderRadius: BorderRadius.all(
                     Radius.circular(15),
@@ -117,7 +117,7 @@ class _DetailpageState extends State<Detailpage> {
             20.height,
             TextFormField(
               decoration: InputDecoration(
-                hintText: 'Student Name ',
+                hintText: 'Standard ',
                 border: const OutlineInputBorder(
                   borderRadius: BorderRadius.all(
                     Radius.circular(15),
